@@ -3,6 +3,7 @@ Es un programa para aficionados a la NBA, cuenta con una base de datos de todos 
 ## Integrantes del equipo
 
 AADNAN TALIB RIZQUI @adnantalib3
+DIEGO MEDINA ESPINOSA @Diego105
 
 ## Objetivos del trabajo
 
